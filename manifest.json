@@ -264,7 +264,7 @@
   ],
   "templates": [
     {
-      "name": "Dynamic Dashboard with React, AntD, and Recharts",
+      "name": "Custom Dashboard",
       "description": "Use this template to create a dynamic dashboard application with React, AntD, and Chart.js. It comes with a dynamic query builder and Apollo GraphQL client. Use it when you want to allow users to edit dashboards.",
       "coverUrl": "https://cube.dev/downloads/template-react-dashboard.png",
       "templatePackages": [
